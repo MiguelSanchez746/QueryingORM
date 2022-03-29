@@ -1,1 +1,1 @@
-# QueryingORM
+# querying-lab
